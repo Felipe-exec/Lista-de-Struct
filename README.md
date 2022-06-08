@@ -1,3 +1,3 @@
 # Lista-de-Struct
 
-Aprendendo como funciona Structs em C! Me lembra um pouquinho de Programação Orientada a Objetos..
+Aprendendo como funciona Structs em C, me lembrou um pouquinho de Programação Orientada a Objetos..
